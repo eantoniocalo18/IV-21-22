@@ -7,7 +7,7 @@
 | <!-- Enlace de LuisArostegui --> | | |
 | <!-- Enlace de Paszser --> | | |
 | https://github.com/Mapachana/Predictor-COVID/pull/19 | 0.0.9 | ✓ |
-| https://github.com/eantoniocalo18/IV/pull/36 | 0.0.9 | |
+| https://github.com/eantoniocalo18/IV/pull/36 | 0.0.10 | |
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
 | https://github.com/Balrrach/Instant-Eat/pull/22 | 0.0.17 | ✓ |
